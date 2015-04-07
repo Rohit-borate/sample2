@@ -4,7 +4,7 @@
 
 ### Built exclusively for Markdown ###
 
-Enjoy first-class Markdown support with easy access to  Markdown syntax and convenient keyboard shortcuts.
+Enjoy first-class Markdown support with easy access to  Markdown syntax and convenient keyboard shortcuts.....
 
 Give them a try:
 
